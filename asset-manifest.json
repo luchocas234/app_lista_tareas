@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/app_lista_tareas/static/css/main.61d478fe.css",
-    "main.js": "/app_lista_tareas/static/js/main.dd84b824.js",
+    "main.js": "/app_lista_tareas/static/js/main.dda71820.js",
     "index.html": "/app_lista_tareas/index.html",
     "main.61d478fe.css.map": "/app_lista_tareas/static/css/main.61d478fe.css.map",
-    "main.dd84b824.js.map": "/app_lista_tareas/static/js/main.dd84b824.js.map"
+    "main.dda71820.js.map": "/app_lista_tareas/static/js/main.dda71820.js.map"
   },
   "entrypoints": [
     "static/css/main.61d478fe.css",
-    "static/js/main.dd84b824.js"
+    "static/js/main.dda71820.js"
   ]
 }
